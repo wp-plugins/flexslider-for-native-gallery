@@ -1,21 +1,32 @@
 === Flexslider for Wordpress Native Gallery ===
 Contributors: sarankumar
 Tested up to: 4.1.1
+WordPress plugin that display a clean basic flexslider instead of the default static thumbnails gallery.
 
-WordPress plugin that hacks the gallery[id=\"1,22,... etc \"] shortcode to display a clean basic flexslider instead of the default static thumbnails. No custom classes or extra posts necessary, just use the normal add media button and the nice gallery editor already available. 
+=== Flexslider for Wordpress Native Gallery ===
+Contributors: sarankumar 
+Tags: gallery,slider,images
+Requires at least: 2.0
+Tested up to: 4.1.1
+Stable tag: 
+
+WordPress plugin that display a clean basic flexslider instead of the default static thumbnails gallery.
 
 == Description ==
-WordPress plugin that hacks the gallery[id=\"1,22,... etc \"] shortcode to display a clean basic flexslider instead of the default static thumbnails. No custom classes or extra posts necessary, just use the normal add media button and the nice gallery editor already available. 
+
+Wordpress plugin that create an awesome flexslider gallery instead of the default static thumbnails.No custom classes or extra posts necessary, just use the normal add media button and the nice gallery editor already available.
+
+**Features**
+
+*   No Settings required
+*   Fully responsive gallery
+*   Support almost all themes.
 
 == Installation ==
-From your WordPress dashboard
-Visit \'Plugins > Add New\'
-Search for \'Flexslider for Wordpress Native Gallery\'
-Activate Flexslider for Wordpress Native Gallery from your Plugins page.
-From WordPress.org
-Download Flexslider for Wordpress Native Gallery.
-Upload the \'Flexslider for Wordpress Native Gallery\' directory to your \'/wp-content/plugins/\' directory, using your favorite method (ftp, sftp, scp, etc...)
-Activate Flexslider for Wordpress Native Gallery from your Plugins page. (You will be greeted with a Welcome page.)
+
+Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+
+
 
 == Frequently Asked Questions ==
 Can I use my existing WordPress theme?
