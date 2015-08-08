@@ -74,7 +74,7 @@ function fsng_getGalleryIDs(){
 function fsng_replaceGallery($content){
 
 	global $post;
-	$new_content = get_the_content();
+	$new_content = $content;
 		if(is_singular()){ //make sure that the gallery is on a page/single post
 			$newGalleryHtml = fsng_getGalleryIDs();
 
