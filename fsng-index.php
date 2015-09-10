@@ -82,7 +82,7 @@ function fsng_replaceGallery($content){
 				$new_content = preg_replace('/\[gallery.*ids=.(.*).\]/', $newGalleryHtml, $content);
 			}
 		}
-	return $new_content;
+	return wpautop($new_content);
 	}
 add_filter( 'the_content', 'fsng_replaceGallery' );
 
