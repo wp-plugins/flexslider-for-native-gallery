@@ -8,7 +8,7 @@ Contributors: sarankumar
 Tags: gallery,slider,images
 Requires at least: 2.0
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.2
 WordPress plugin that display a clean basic flexslider instead of the default static thumbnails gallery.
 
 == Description ==

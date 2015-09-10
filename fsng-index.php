@@ -4,7 +4,7 @@
 	Plugin Name: Flex Slider for Native Gallery
 	Plugin URI: https://profiles.wordpress.org/sarankumar
 	Description: A simple FlexSlider Wordpress plugin for Native Gallery
-	Version: 1.1
+	Version: 1.2
 	Author: Sarankumar
 	Author URI: https://profiles.wordpress.org/sarankumar
 	
